@@ -8,7 +8,7 @@ import pandas as pd
 import numpy  as np
 
 # read in data
-input_file = "inputs/day-two.txt"
+input_file = "inputs/02.day-two.txt"
 raw = open(input_file).read().splitlines()
 
 # create a list of lists to hold our reports and convert to intergers

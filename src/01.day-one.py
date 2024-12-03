@@ -7,7 +7,7 @@ import numpy  as np
 from collections import Counter
 
 # read in data
-input_file = "inputs/day-one.txt"
+input_file = "inputs/01.day-one.txt"
 df = pd.read_csv(input_file, 
                        sep='   ', 
                        header=None, 

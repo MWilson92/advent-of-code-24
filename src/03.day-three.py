@@ -5,7 +5,7 @@
 #  - are numbers 1-3 digits
 #  - separated by a comma with no whitespace anywhere
 
-input_file = 'inputs/day-three.txt'
+input_file = 'inputs/03.day-three.txt'
 inst_raw = open(input_file).read()
 
 import re
